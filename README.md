@@ -37,8 +37,8 @@ Follow these steps to setup your git _fork_ and _branch_.
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge the `<firstName-lastName>` branch into the master branch on your fork. **Please don't merge your own pull request**
-- [ ] Use GitHub's website to add your project manager as a reviewer on the pull-request.
+- [x] Submit a Pull-Request to merge the `<firstName-lastName>` branch into the master branch on your fork. **Please don't merge your own pull request**
+- [x] Use GitHub's website to add your project manager as a reviewer on the pull-request.
 - [ ] Your project manager will count the project as complete by merging the branch back into the master branch of your forked repository.
 
 ## Minimum Viable Product
@@ -51,8 +51,8 @@ The expected/assumed behavior of the application is listed below.
 
 ### Gate
 
-- [ ] defaults to `unlocked` and `open`
-- [ ] cannot be closed or opened if it is locked
+- [x] defaults to `unlocked` and `open`
+- [x] cannot be closed or opened if it is locked
 
 ### Dashboard
 
@@ -68,10 +68,10 @@ The expected/assumed behavior of the application is listed below.
 
 ### Controls Component
 
-- [ ] provide buttons to toggle the `closed` and `locked` states.
+- [x] provide buttons to toggle the `closed` and `locked` states.
 - [ ] buttons' text changes to reflect the state the door will be in if clicked
-- [ ] the closed toggle button is disabled if the gate is locked
-- [ ] the locked toggle button is disabled if the gate is open
+- [x] the closed toggle button is disabled if the gate is locked
+- [x] the locked toggle button is disabled if the gate is open
 
 ## Stretch Problem
 
